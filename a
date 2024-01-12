@@ -1,0 +1,9 @@
+const name = 'a'
+
+repository.name.substring(0, repository.name.indexOf('/'))
+repository.name.substring(1, repository.name.indexOf('/'))
+
+
+
+
+
